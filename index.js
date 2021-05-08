@@ -130,6 +130,7 @@ function outputTeam() {
         fs.mkdirSync(DIST_DIR)
     }
     fs.writeFileSync(outputPath, render(teamMembers), "utf-8");
+    console.log("your html file has been created!")
 }
 
 manager();
