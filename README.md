@@ -37,7 +37,7 @@ Please follow this link for a walkthough video of the working application.
 
 ## Usage
   
-  It allows to create a high-quality html file to show the organization of a team of one manager, engineers and interns in an easy and expedite way.The user only needs to answer the questions that are formulated.
+  It allows to create a high-quality html file to show the organization of a team of one manager, engineers and interns in an easy and expedite way. The user only needs to answer the questions that are formulated.
   
 ## License
   
