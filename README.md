@@ -8,7 +8,7 @@ ramflorez@yahoo.com
 
 # Walkthrough Video
 
-Please follow this link for the a walkthough video of the working application.
+Please follow this link for a walkthough video of the working application.
 
 - [Video LInk](https://drive.google.com/file/d/12R2UikF0NAISLZ_GkbeXIgTeOBDWTuN_/view?usp=sharing)
 
